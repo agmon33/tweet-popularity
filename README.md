@@ -1,2 +1,3 @@
-# tweet-popularity
-Predict how popular your tweet will be
+# Tweets_popularity
+Data analyze
+Can we predict how popular a tweet will be?
